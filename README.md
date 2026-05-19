@@ -1,7 +1,7 @@
 Hi there, I'm Belal 👋
 🎓 Data Scientist | AI Enthusiast | Problem Solver
 
-Welcome to my GitHub! I’m a recent graduate from Le Wagon's Data Science Bootcamp, where I developed a strong foundation in Python programming, machine learning, data engineering, and deep learning. I’m passionate about using data to solve real-world problems, especially when it comes to making an impact through AI and machine learning.
+Welcome to my GitHub! I developed a strong foundation in Python programming, machine learning, data engineering, and deep learning. I’m passionate about using data to solve real-world problems, especially when it comes to making an impact through AI and machine learning.
 
 🚀 My Latest Project: Waste Classification Using Deep Learning
 One of the highlights of my Bootcamp was building an end-to-end waste classification system using Convolutional Neural Networks (CNN). I used the powerful ResNet-50 model, working with 12 waste categories and achieving an impressive 94% accuracy. This project was a fantastic opportunity to see how AI can contribute to sustainability by helping to automate waste sorting. 🌍♻️
