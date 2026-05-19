@@ -1,5 +1,5 @@
 Hi there, I'm Belal 👋
-🎓 Data Scientist | AI Enthusiast | Problem Solver
+🎓 Data Scientist | Business Specialist | Problem Solver
 
 Welcome to my GitHub! I developed a strong foundation in Python programming, machine learning, data engineering, and deep learning. I’m passionate about using data to solve real-world problems, especially when it comes to making an impact through AI and machine learning.
 
